@@ -22,16 +22,7 @@ i code in aoi.js and kinda master markdown.
 - 💬 Like coding
 - 🥅 2021-2022 Goals: make some awesome Discord Bots
 
-**Languages and Tools:** &nbsp;
-<p align="center">
-<img src="https://img.shields.io/badge/Node.JS-black?style=for-the-badge&logo=node.js" />
-</p>
- 
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ᵈᵉᵛⁱˡ#7406&show_icons=true&layout=compact&hide_border=true&theme=dark" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ᵈᵉᵛⁱˡ#7406&show_icons=true&theme=dark&line_height=21" alt="legend-js' github stats"/>
- 
  
 
 #### text me on disc to make something in markdown i suck at everything anyways stay safe my disc is ᵈᵉᵛⁱˡ#7406.
