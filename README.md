@@ -1,6 +1,5 @@
-### Hi there, I'm Tejas Lamba! 👋
+### Hi there, I'm Snipedprox! 👋
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Snipedprox" alt="yus" /> </p>
-<p align='center'> <a href="https://discord.gg/Tccx7F7mMj">
   <img align="center" alt="Discord Server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a> </p>
 
