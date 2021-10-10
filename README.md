@@ -1,5 +1,5 @@
 ### Hi there, I'm Tejas Lamba! 👋
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=TajuModding" alt="yus" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Snipedprox" alt="yus" /> </p>
 <p align='center'> <a href="https://discord.gg/Tccx7F7mMj">
   <img align="center" alt="Discord Server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a> </p>
@@ -15,7 +15,7 @@
  
 <br />
 
-### Hey i'm Lara im so happy to see you here! &nbsp;
+### Hey i'm Snipedprox im so happy to see you here! &nbsp;
 
 i code in aoi.js and kinda master markdown.
  - 🌱 I’m currently learning JavaScript but sometimes get demotivated
