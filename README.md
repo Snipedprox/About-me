@@ -20,5 +20,5 @@ i code in aoi.js and kinda master markdown.
 
  
 
-#### text me on disc to make something in markdown i suck at everything anyways stay safe my disc is ᵈᵉᵛⁱˡ#7406.
+#### text me on disc to make something in markdown i suck at everything anyways stay safe my disc is Evade#7406.
 
